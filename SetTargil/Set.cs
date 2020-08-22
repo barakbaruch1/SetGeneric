@@ -5,7 +5,7 @@ using System.Diagnostics.CodeAnalysis;
 using System.Dynamic;
 using System.Text;
 
-namespace SetTargil
+namespace SetGeneric
 {
     class Set<T>  : IEnumerable<T>
     {

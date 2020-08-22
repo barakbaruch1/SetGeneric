@@ -2,7 +2,7 @@
 using System.Globalization;
 using System.Runtime.CompilerServices;
 
-namespace SetTargil
+namespace SetGeneric
 {
     class Program
     {
