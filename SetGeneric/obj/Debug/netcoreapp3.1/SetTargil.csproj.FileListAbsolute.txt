@@ -1,0 +1,13 @@
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\bin\Debug\netcoreapp3.1\SetTargil.exe
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\bin\Debug\netcoreapp3.1\SetTargil.deps.json
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\bin\Debug\netcoreapp3.1\SetTargil.runtimeconfig.json
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\bin\Debug\netcoreapp3.1\SetTargil.runtimeconfig.dev.json
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\bin\Debug\netcoreapp3.1\SetTargil.dll
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\bin\Debug\netcoreapp3.1\SetTargil.pdb
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.csprojAssemblyReference.cache
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.AssemblyInfoInputs.cache
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.AssemblyInfo.cs
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.csproj.CoreCompileInputs.cache
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.dll
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.pdb
+C:\Users\barak\sela c#\sela class\michael\SetTargil\SetTargil\obj\Debug\netcoreapp3.1\SetTargil.genruntimeconfig.cache
